@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+python-dotenv
+requests
+spacy
+langchain
+transformers
+faiss-cpu
+torch
